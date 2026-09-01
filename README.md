@@ -33,6 +33,12 @@ past. Copy one into your project and change the parts you care about.
 | --- | --- | --- |
 | [desktop-computer-use-py](examples/desktop-computer-use-py) | Python | Screenshot, click, and type on a Linux GUI |
 
+### End-to-end
+
+| Example | Language | What it shows |
+| --- | --- | --- |
+| [preflight-qa-agent-ts](examples/preflight-qa-agent-ts) | TypeScript | **Sandbox + browser + Claude:** host an app in a sandbox, let an AI tester explore it in a recorded browser, get a bug report with screenshots and replay |
+
 ## Running an example
 
 Each directory is self-contained.
